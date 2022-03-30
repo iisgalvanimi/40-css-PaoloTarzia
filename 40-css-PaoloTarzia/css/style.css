@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    height: 300px;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color: rgb(76, 216, 235);
+
+
+    
+    
+  }
+  
+  #item { height: 14%;  background-color: rgb(31, 31, 211);}
+  #item1 { width: 40%;  background-color: blue;}
+  #item2 { width: 50%; background-color: blue; }
+  #item3 { width: 60%;  background-color: blue;}
+  #item4 { width: 20%;  background-color: blue;}
+  #item5 { width: 30%;  background-color: blue;}
+
+
+  #upper-div-image{
+    width: 200px;
+    border-radius: 50%;
+    border: 2px double blue
+  }
